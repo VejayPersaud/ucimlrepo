@@ -1,6 +1,6 @@
 # Data Science Final Project
 
-This repository contains the code and components for our **Data Science Final Project**, which focuses on building a full data pipeline for dataset exploration, preprocessing, model training, and hyperparameter tuning. Our project leverages various machine learning models, including **Neural Networks (NN)**, **Support Vector Machines (SVM)**, **Random Forests (RF)**, and **K-Nearest Neighbors (KNN)**, and also includes an ensemble method for enhanced performance.
+This repository contains the code and components for our **Data Science Final Project**, which focuses on building a full data pipeline for dataset exploration, preprocessing, model training, and hyperparameter tuning. Our project compares the performance of various machine learning models, including **Neural Networks (NN)**, **Support Vector Machines (SVM)**, **Random Forests (RF)**, and **K-Nearest Neighbors (KNN)**, and also includes an ensemble method for enhanced performance.
 
 ---
 
